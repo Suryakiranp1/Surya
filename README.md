@@ -1,1 +1,1 @@
-# Surya
+# gym-app
